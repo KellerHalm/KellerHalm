@@ -5,7 +5,7 @@
 # ================ [ PROFILE HEADER ] ================  
 name = "Uveis Dzaurov"  
 role = "FullStack Developer"  
-current_os = "Windows / Arch"  
+current_os = "Windows / Linux"  
 
 def bio():  
     return "Пишу код, исправляю баги, пью кофе."  
