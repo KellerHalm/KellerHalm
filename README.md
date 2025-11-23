@@ -12,21 +12,13 @@ def bio():
 
 # ================ [ TECH STACK ] ================  
 stack = {  
-    "Languages": ["Python", "JavaScripts", "GoLang"],  
+    "Languages": ["Python", "TypeScripts", "GoLang"],  
     "Tools": ["WSL", "Obsidian", "Git"],  
-}  
-
-# ================ [ CONTACT ] ================  
-contacts = {  
-    "Email": "uveis@yandex.ru", 
-    "GitHub": "https://github.com/LordVays", 
-    "Habr": "https://habr.com/ru/users/LordVays/",
-    "X": "https://x.com/KiryuinKoji?t=Bd_nD03b_3h-mLczLiU_9w&s=09"
 }  
 ```
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordVays&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordVays&layout=compact&theme=radical)](https://github.com/LordVays) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KellerHalm&show_icons=true&theme=radical)](https://github.com/LordVays) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellerHalm&layout=compact&theme=radical)](https://github.com/LordVays) 
 
 
 
