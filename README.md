@@ -12,7 +12,7 @@ def bio():
 
 # ================ [ TECH STACK ] ================  
 stack = {  
-    "Languages": ["Python", "TypeScripts", "GoLang"],  
+    "Languages": ["GO", "Python", "TypeScript"],  
     "Tools": ["WSL", "Obsidian", "Git"],  
 }  
 ```
