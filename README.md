@@ -18,7 +18,7 @@ stack = {
 ```
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KellerHalm&show_icons=true&theme=radical)](https://github.com/KellerHalm) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellerHalm&layout=compact&theme=radical)](https://github.com/KellerHalm) 
+[![Jacquin Moon's Github Stats](https://streak-stats.demolab.com?user=KellerHalm&count_private=true&show_icons=true&theme=catppuccin-macchiato&hide_border=true&border_radius=15px)](https://git.io/streak-stats)
 
 
 
