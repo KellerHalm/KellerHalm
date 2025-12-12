@@ -18,9 +18,6 @@ stack = {
 ```
 
 
-[![Github Stats](https://streak-stats.demolab.com?user=KellerHalm&count_private=true&show_icons=true&theme=catppuccin-macchiato&hide_border=true&border_radius=15px)]
-
-
 
  <div align="center">
 <!-- Profile Views -->
