@@ -17,6 +17,19 @@ stack = {
 }  
 ```
 
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KellerHalm's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KellerHalm&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&border_radius=15px&bg_color=24273A&title_color=C6A0F6&icon_color=8BD5CA" height="180px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KellerHalm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KellerHalm&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=15px&bg_color=24273A&title_color=C6A0F6&icon_color=8BD5CA" height="180px"/></a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  
+[![Jacquin Moon's GitHub Activity Stats](https://github-readme-activity-graph.vercel.app/graph?username=KellerHalm&bg_color=1E1E2E&color=94E2D5&line=CBA6F7&point=CDD6F4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 
  <div align="center">
