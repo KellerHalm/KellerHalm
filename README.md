@@ -58,8 +58,8 @@ stack = {
 ### 💻 Language and Tools 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/LordVays)
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
-![Dart](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Dart)
-![Flutter](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Flutter)
+![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
+![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter)
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=ejs)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
 ![JavaScripts](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
