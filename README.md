@@ -64,6 +64,8 @@ stack = {
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
 ![JavaScripts](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=Vue)
+![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 ![NodeJs](https://img.shields.io/badge/NodeJs-090909?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
