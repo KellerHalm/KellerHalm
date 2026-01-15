@@ -57,6 +57,7 @@ stack = {
 
 ### 💻 Language and Tools 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/LordVays)
+[![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)]
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter)
@@ -65,6 +66,7 @@ stack = {
 ![JavaScripts](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=Vue.js)
+![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=GraphQL)
 ![NodeJs](https://img.shields.io/badge/NodeJs-090909?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
