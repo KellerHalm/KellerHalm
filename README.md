@@ -67,6 +67,8 @@ stack = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript)
 ![Vue](https://img.shields.io/badge/Vue-090909?style=for-the-badge&logo=Vue.js)
 ![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=GraphQL)
+![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
 ![NodeJs](https://img.shields.io/badge/NodeJs-090909?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
