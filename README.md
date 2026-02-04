@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/nord_car_live.gif">
 
 ## 👋 Hello User! My name is Uveis. 
-## 🚀 I'm a FullStack Developer
+## 🚀 I'm a Backend Developer
 
 ```Python
 # ================ [ PROFILE HEADER ] ================  
 name = "Uveis Dzaurov"  
-role = "FullStack Developer"  
+role = "Backend Developer"  
 current_os = "Windows / Linux"  
 
 def bio():  
