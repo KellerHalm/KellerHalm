@@ -7,7 +7,7 @@
 # ================ [ PROFILE HEADER ] ================  
 name = "Uveis Dzaurov"  
 role = "Backend Developer"  
-current_os = "Windows / Linux"  
+current_os = "Linux"  
 
 def bio():  
     return "Пишу код, исправляю баги, пью кофе."  
@@ -58,6 +58,8 @@ stack = {
 ### 💻 Language and Tools 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/KellerHalm)
 [![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)](https://gitlab.com/KellerHalm)
+![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux)
+![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=Bash)
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter)
