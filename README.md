@@ -57,7 +57,7 @@ stack = {
 
 ### 💻 Language and Tools 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/KellerHalm)
-[![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)](https://gitlab.com/KellerHalm)
+[![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)](https://gitlab.com/LordVays)
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux)
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
