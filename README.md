@@ -3,20 +3,39 @@
 ## 👋 Hello User! My name is Uveis. 
 ## 🚀 I'm a Backend Developer
 
-```Python
-# ================ [ PROFILE HEADER ] ================  
-name = "Uveis Dzaurov"  
-role = "Backend Developer"  
-current_os = "Linux"  
+```GO
+package main
 
-def bio():  
-    return "Пишу код, исправляю баги, пью кофе."  
+import (
+	"fmt"
+)
 
-# ================ [ TECH STACK ] ================  
-stack = {  
-    "Languages": ["GO", "Dart", "Python"],  
-    "Tools": ["WSL", "Obsidian", "Git"],  
-}  
+// Profile представляет структуру профиля разработчика
+type Profile struct {
+	Name      string
+	Role      string
+	CurrentOS string
+}
+
+// Bio возвращает строку с описанием
+func (p Profile) Bio() string {
+	return "Пишу код, исправляю баги, пью кофе."
+}
+
+func main() {
+	// ================ [ PROFILE HEADER ] ================
+	profile := Profile{
+		Name:      "Uveis Dzaurov",
+		Role:      "Backend Developer",
+		CurrentOS: "Linux",
+	}
+
+	// ================ [ TECH STACK ] ================
+	stack := map[string][]string{
+		"Languages": {"GO", "Dart", "Python"},
+		"Tools":     {"WSL", "Obsidian", "Git"},
+	}
+} 
 ```
 
 <div align="center">
