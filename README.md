@@ -10,30 +10,26 @@ import (
 	"fmt"
 )
 
-// Profile представляет структуру профиля разработчика
 type Profile struct {
 	Name      string
 	Role      string
 	CurrentOS string
 }
 
-// Bio возвращает строку с описанием
 func (p Profile) Bio() string {
 	return "Пишу код, исправляю баги, пью кофе."
 }
 
 func main() {
-	// ================ [ PROFILE HEADER ] ================
 	profile := Profile{
 		Name:      "Uveis Dzaurov",
 		Role:      "Backend Developer",
 		CurrentOS: "Linux",
 	}
 
-	// ================ [ TECH STACK ] ================
 	stack := map[string][]string{
-		"Languages": {"GO", "Dart", "Python"},
-		"Tools":     {"WSL", "Obsidian", "Git"},
+		"Languages": { "GO", "Dart", "Python" },
+		"Tools":     { "WSL", "Obsidian", "Git" },
 	}
 } 
 ```
