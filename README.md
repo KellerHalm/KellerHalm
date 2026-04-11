@@ -24,7 +24,7 @@ func main() {
 	}
 
 	stack := map[string][]string{
-		"Languages": { "GO", "Dart", "Python" },
+		"Languages": { "GO", "Dart", "Python"   },
 		"Tools":     { "WSL", "Obsidian", "Git" },
 	}
 } 
