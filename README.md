@@ -6,10 +6,6 @@
 ```GO
 package main
 
-import (
-	"fmt"
-)
-
 type Profile struct {
 	Name      string
 	Role      string
