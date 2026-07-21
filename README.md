@@ -71,6 +71,7 @@ func main() {
 [![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)](https://gitlab.com/LordVays)
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux)
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
+![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C)
 ![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
 ![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter)
 ![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=PHP)
