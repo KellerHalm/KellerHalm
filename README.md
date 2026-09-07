@@ -40,7 +40,7 @@ func main() {
 
 <div align="center">
   
-[![Jacquin Moon's GitHub Activity Stats](https://github-readme-activity-graph.vercel.app/graph?username=KellerHalm&bg_color=1E1E2E&color=94E2D5&line=CBA6F7&point=CDD6F4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KellerHalm GitHub Activity Stats](https://github-readme-activity-graph.vercel.app/graph?username=KellerHalm&bg_color=1E1E2E&color=94E2D5&line=CBA6F7&point=CDD6F4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
