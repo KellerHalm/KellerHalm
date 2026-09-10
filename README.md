@@ -69,7 +69,6 @@ func main() {
 ### 💻 Language and Tools 
 [![GitHub](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github)](https://github.com/KellerHalm)
 [![gitlab](https://img.shields.io/badge/gitlab-090909?style=for-the-badge&logo=gitlab)](https://gitlab.com/LordVays)
-![Zed](https://img.shields.io/badge/zed-090909?style=for-the-badge&logo=zed)
 ![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=Linux)
 ![GoLang](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=Go)
 ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C)
