@@ -88,7 +88,7 @@ func main() {
 ![Firebase](https://img.shields.io/badge/Firebase-090909?style=for-the-badge&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-090909?style=for-the-badge&logo=Supabase)
 ![NodeJs](https://img.shields.io/badge/NodeJs-090909?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/Nest.js-090909?style=for-the-badge&logo=Nest.js)
+![NestJS](https://img.shields.io/badge/NestJS-090909?style=for-the-badge&logo=Nest)
 ![Express](https://img.shields.io/badge/Express-090909?style=for-the-badge&logo=Express)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask)
