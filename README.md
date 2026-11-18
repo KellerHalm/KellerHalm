@@ -31,8 +31,7 @@ func main() {
 ```
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KellerHalm's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KellerHalm&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=15px&bg_color=24273A&title_color=C6A0F6&icon_color=8BD5CA" height="180px"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KellerHalm)](https://git.io/streak-stats)
 </div>
 
 <br/>
