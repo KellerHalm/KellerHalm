@@ -31,7 +31,7 @@ func main() {
 ```
 
 <div align="center">
-[(https://github-stats-extended.vercel.app/api?username=KellerHalm)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
 
 <br/>
